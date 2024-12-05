@@ -6,11 +6,6 @@ import java.util.stream.Collectors;
 
 
 public class Day5 {
-
-
-
-
-
     public static void main(String[] args) {
         List<String> lines = new ArrayList<>();
         try {
