@@ -11,7 +11,6 @@ def in_grid(i, j):
     return (0 <= i < n) and (0 <= j < n)
 
 def score(i, j):
-    # Do DFS
     if grid[i][j] != "0":
         return 0
     
